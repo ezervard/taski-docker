@@ -1,7 +1,0 @@
-login: yc-user
-passphrase: JlOv3bJ-5z
-ip: 84.201.142.30
-
-git ssh - gls
-ssh -i D:/vm_acces/yc-vardezer yc-user@84.201.142.30
-http://taskmanager.sytes.net/
